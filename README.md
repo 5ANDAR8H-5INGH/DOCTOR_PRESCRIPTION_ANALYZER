@@ -39,3 +39,19 @@ TF-IDF Vectorization
 ML Classification
         
 Structured Output
+
+--------------------------------------
+
+## Technologies Used
+- Python
+- Tesseract OCR
+- Pandas, NumPy
+- Scikit-learn (TF-IDF, Logistic Regression)
+- Regex (re library)
+
+-----------------------------------------
+  
+## Dataset
+- Synthetic prescription dataset (200 samples)
+- Medicine dictionary (cleaned drug list)
+
