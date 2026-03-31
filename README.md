@@ -55,3 +55,16 @@ Structured Output
 - Synthetic prescription dataset (200 samples)
 - Medicine dictionary (cleaned drug list)
 
+-------------------------------------------
+
+## Conclusion
+
+This system demonstrates how lightweight OCR and NLP techniques can be used to improve prescription readability and patient understanding, without relying on heavy deep learning models.
+
+--------------------------------------------
+
+## Future Improvements
+- Better handwritten OCR accuracy
+- Multilingual support
+- Mobile app integration
+- Drug interaction warnings
