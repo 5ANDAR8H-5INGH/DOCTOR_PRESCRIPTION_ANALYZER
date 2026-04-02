@@ -63,6 +63,10 @@ This system demonstrates how lightweight OCR and NLP techniques can be used to i
 
 --------------------------------------------
 
+## Author 
+- Sandarbh Singh
+- Ram Yadav
+
 ## Future Improvements
 - Better handwritten OCR accuracy
 - Multilingual support
